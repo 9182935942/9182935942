@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Data Scientist and AI/ML Enthusiast</h3>
 
-- 🔭 I’m currently working at **Cognizant**
+- 🔭 working at **Cognizant** Ex- Dr Reddy's
 
 - 🌱 I’m currently learning **Gen AI, AWS Sagemaker, RAG, LLM, GPT**
 
